@@ -4,3 +4,7 @@ function getElements() {
 		id, elt;
 		
 }
+
+function bodmas() {
+
+}
