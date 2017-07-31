@@ -6,5 +6,5 @@ function getElements() {
 }
 
 function bodmas() {
-
+   getElements()
 }
